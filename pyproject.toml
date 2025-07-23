@@ -1,0 +1,5 @@
+[project]
+name = "aigx"
+version = "0.1.0"
+description = "Open, MIT context format for AI coding agents: centralized .aigx/ rules + a per-file boundary index that targets the right rules, forbidden imports, and gotchas to each file. The only context format validated in a controlled benchmark. Tool-agnostic; nothing injected into your source."
+requires-python = ">=3.10"
